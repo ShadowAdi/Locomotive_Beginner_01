@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  min-height: 100vh;
+  width: 100%;
+}
+
+#page1 {
+  height: 100vh;
+  width: 100%;
+  background-color: pink;
+}
+#page2 {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: skyblue;
+}
+#page3 {
+  height: 100vh;
+  width: 100%;
+  background-color: limegreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#page1 #page2-div{
+    height: 100%;
+    width: 40%;
+}
+#page1 #page2-div img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    position: sticky;
+    z-index: 5;
+}
+

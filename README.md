@@ -1,4 +1,4 @@
-#Getting Started with Locomotive Scroll: A Beginner's Guide.
+# Getting Started with Locomotive Scroll: A Beginner's Guide.
 You Can Check My Blog [Here](https://www.linkedin.com/in/aditya12153/).
 
 Do you love seeing those websites which Become Site of Day, Site of Month or Even Site of Year in Awwwards.com. Well I Found them Very interesting and always have a desire to know how they can create websites like that.
